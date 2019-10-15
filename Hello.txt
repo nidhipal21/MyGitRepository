@@ -2,7 +2,7 @@ This is my complete java application file.....Hello Git...!!!
 
 class Hello{
 
-public staic void main(){
+public statsic void main(){
 
 	sysout("Welcome to Git");
 
