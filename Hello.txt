@@ -2,8 +2,9 @@
 
 class Hello{
 
-	static String void myMethod(){
-		return "myMethod";
+	public static String myMethod(String str){
+		return str;
+	
 	}
 	
 	public static void main(String[] args){
